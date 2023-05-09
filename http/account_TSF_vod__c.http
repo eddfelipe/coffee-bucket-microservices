@@ -1,0 +1,7 @@
+GET /services/data/v57.0/query?q=SELECT+FIELDS(ALL)+FROM+TSF_vod__c+LIMIT+100 HTTP/1.1
+Host: silaneslatam--full.sandbox.my.salesforce.com
+Authorization: Bearer 00D54000000YqUS!ARUAQJIoL9rLVWG43wAUBbBoON_Z9f1YxxVaVWYr3IV.bhaVXeC0bCPoEc8d68hk9U7y0ou1Q1S_PeXp6Qp1h2nC_YJ.ZsfR
+
+# a0N8Z00000vQ1P6UAK
+# TSF_vod__c
+# Account_Territory_Loader_vod__c
